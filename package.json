@@ -1,0 +1,22 @@
+{
+  "name": "@tonkpils/hello-money",
+  "version": "1.0.0",
+  "description": "Simple package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tonkpils/hello-money.git"
+  },
+  "author": "Tonkpils",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tonkpils/hello-money/issues"
+  },
+  "homepage": "https://github.com/Tonkpils/hello-money#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  }
+}
